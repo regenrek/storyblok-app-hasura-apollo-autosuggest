@@ -1,4 +1,4 @@
-# storyblok-hasura
+# storyblok-app-hasura-example
 
 Storyblok App + Hasura GraphQL 
 
