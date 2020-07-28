@@ -2,6 +2,9 @@
 
 Storyblok App + Hasura GraphQL 
 
+![Storyblok App + Hasura Graphql](https://i.imgur.com/QQ8oogC.gif)
+
+
 I followed this tutorial: https://www.storyblok.com/tp/how-to-create-custom-app-for-storyblok-with-nuxt-js-and-oauth2
 
 
